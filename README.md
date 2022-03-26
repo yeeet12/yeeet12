@@ -1,4 +1,23 @@
-<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"><head>
+ 
+ hi i just inspect elemted and copied that
+ idk why
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ <html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark"><head>
     <meta charset="utf-8">
   
   
